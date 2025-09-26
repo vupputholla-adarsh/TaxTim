@@ -154,19 +154,4 @@ We are very thankful for the support of my teammates and instructor for the comp
 # <span style="color:rgb(255, 170, 0)"> Thank Your For Reading </span>
 
 
-## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
 
-- ## Sakshi Singh
-[GitHub](https://github.com/Sakuu89)
-
-- ## Yuvraj Jangir
-[GitHub](https://github.com/yuvrajjangir)
-
-- ## Sujal Sahu
-[GitHub](https://github.com/sujalsahu620)
-
-- ## Suraj Yadav
-[GitHub](https://github.com/SurajYadav007)
-
-- ## Madhu Sudan
-[GitHub](https://github.com/MadhuSudhanAlukuntla)
